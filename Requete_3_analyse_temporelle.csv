@@ -1,0 +1,909 @@
+products_industry_name,annee,nombre_incidents
+Cosmetics,2021,21247
+Cosmetics,2017,13595
+Vit/Min/Prot/Unconv Diet(Human/Animal),2016,8633
+Cosmetics,2020,8114
+Cosmetics,2018,7546
+Cosmetics,2016,7027
+Vit/Min/Prot/Unconv Diet(Human/Animal),2015,6958
+Vit/Min/Prot/Unconv Diet(Human/Animal),2013,6933
+Vit/Min/Prot/Unconv Diet(Human/Animal),2020,6866
+Cosmetics,2019,6693
+Vit/Min/Prot/Unconv Diet(Human/Animal),2018,6510
+Vit/Min/Prot/Unconv Diet(Human/Animal),2017,6441
+Cosmetics,2022,6379
+Vit/Min/Prot/Unconv Diet(Human/Animal),2014,6300
+Cosmetics,2023,6178
+Vit/Min/Prot/Unconv Diet(Human/Animal),2022,5388
+Vit/Min/Prot/Unconv Diet(Human/Animal),2019,5250
+Vit/Min/Prot/Unconv Diet(Human/Animal),2012,5232
+Vit/Min/Prot/Unconv Diet(Human/Animal),2021,4899
+Vit/Min/Prot/Unconv Diet(Human/Animal),2023,4613
+Vit/Min/Prot/Unconv Diet(Human/Animal),2024,4580
+Vit/Min/Prot/Unconv Diet(Human/Animal),2011,3819
+Vit/Min/Prot/Unconv Diet(Human/Animal),2025,3378
+Cosmetics,2015,3256
+Vit/Min/Prot/Unconv Diet(Human/Animal),2010,2294
+Vit/Min/Prot/Unconv Diet(Human/Animal),2009,2265
+Vit/Min/Prot/Unconv Diet(Human/Animal),2008,2036
+Nuts/Edible Seed,2022,1807
+Nuts/Edible Seed,2007,926
+Vit/Min/Prot/Unconv Diet(Human/Animal),2004,885
+Vegetables/Vegetable Products,2017,731
+Cereal Prep/Breakfast Food,2022,705
+Vit/Min/Prot/Unconv Diet(Human/Animal),2005,686
+Bakery Prod/Dough/Mix/Icing,2009,622
+Nuts/Edible Seed,2009,566
+Vit/Min/Prot/Unconv Diet(Human/Animal),2007,564
+Cosmetics,2004,558
+Vegetables/Vegetable Products,2022,548
+Cosmetics,2014,519
+Milk/Butter/Dried Milk Prod,2013,494
+Vit/Min/Prot/Unconv Diet(Human/Animal),2006,476
+Powder Formula,2022,465
+Nuts/Edible Seed,2011,415
+Cosmetics,2012,395
+Nuts/Edible Seed,2010,389
+Mult Food Dinner/Grav/Sauce/Special,2025,346
+Cereal Prep/Breakfast Food,2015,341
+Vegetables/Vegetable Products,2006,335
+Cosmetics,2013,330
+Cosmetics,2011,305
+Cosmetics,2005,300
+Vegetables/Vegetable Products,2024,280
+Fishery/Seafood Prod,2013,268
+Vegetables/Vegetable Products,2025,266
+Soft Drink/Water,2007,261
+Mult Food Dinner/Grav/Sauce/Special,2024,260
+Fishery/Seafood Prod,2012,258
+Soft Drink/Water,2006,256
+Nuts/Edible Seed,2014,237
+Soft Drink/Water,2004,237
+Fruit/Fruit Prod,2023,236
+Vegetables/Vegetable Products,2012,230
+Cosmetics,2008,229
+Vegetables/Vegetable Products,2011,225
+Bakery Prod/Dough/Mix/Icing,2025,222
+Soft Drink/Water,2009,221
+Soft Drink/Water,2024,221
+Bakery Prod/Dough/Mix/Icing,2024,221
+Soft Drink/Water,2025,221
+Fishery/Seafood Prod,2004,220
+Dietary Conventional Foods/Meal Replacements,2022,219
+Vegetables/Vegetable Products,2020,218
+Vegetables/Vegetable Products,2013,215
+Vegetables/Vegetable Products,2019,214
+Vegetables/Vegetable Products,2018,214
+Vegetables/Vegetable Products,2008,211
+Cosmetics,2010,208
+Fruit/Fruit Prod,2015,208
+Nuts/Edible Seed,2015,206
+Fruit/Fruit Prod,2008,206
+Bakery Prod/Dough/Mix/Icing,2007,204
+Fruit/Fruit Prod,2009,203
+Vegetables/Vegetable Products,2016,201
+Bakery Prod/Dough/Mix/Icing,2004,200
+Fishery/Seafood Prod,2011,199
+Mult Food Dinner/Grav/Sauce/Special,2015,198
+Vegetables/Vegetable Products,2010,198
+Bakery Prod/Dough/Mix/Icing,2015,198
+Soft Drink/Water,2005,197
+Cosmetics,2009,194
+Vegetables/Vegetable Products,2007,193
+Vegetables/Vegetable Products,2009,192
+Fruit/Fruit Prod,2011,191
+Fishery/Seafood Prod,2025,191
+Fruit/Fruit Prod,2024,191
+Fishery/Seafood Prod,2007,190
+Dietary Conventional Foods/Meal Replacements,2016,190
+Soft Drink/Water,2023,190
+Soft Drink/Water,2016,189
+Fruit/Fruit Prod,2025,189
+Fruit/Fruit Prod,2022,187
+Soft Drink/Water,2008,186
+Fruit/Fruit Prod,2012,181
+Fruit/Fruit Prod,2020,181
+Vegetables/Vegetable Products,2021,179
+Baby Food Products,2010,179
+Soft Drink/Water,2012,179
+Soft Drink/Water,2010,178
+Fishery/Seafood Prod,2009,178
+Dietary Conventional Foods/Meal Replacements,2015,178
+Bakery Prod/Dough/Mix/Icing,2008,177
+Soft Drink/Water,2015,175
+Fruit/Fruit Prod,2019,174
+Fishery/Seafood Prod,2024,174
+Soft Drink/Water,2014,174
+Fruit/Fruit Prod,2014,173
+Mult Food Dinner/Grav/Sauce/Special,2022,173
+Candy W/O Choc/Special/Chew Gum,2022,173
+Fruit/Fruit Prod,2004,172
+Fishery/Seafood Prod,2014,171
+Bakery Prod/Dough/Mix/Icing,2016,170
+Dietary Conventional Foods/Meal Replacements,2019,170
+Soft Drink/Water,2018,170
+Fishery/Seafood Prod,2006,170
+Fruit/Fruit Prod,2010,169
+Candy W/O Choc/Special/Chew Gum,2023,168
+Fruit/Fruit Prod,2007,167
+Bakery Prod/Dough/Mix/Icing,2023,163
+Dietary Conventional Foods/Meal Replacements,2011,163
+Fishery/Seafood Prod,2010,161
+Bakery Prod/Dough/Mix/Icing,2017,159
+Cereal Prep/Breakfast Food,2009,157
+Prep Salad Prod,2020,157
+Candy W/O Choc/Special/Chew Gum,2024,157
+Bakery Prod/Dough/Mix/Icing,2010,155
+Dietary Conventional Foods/Meal Replacements,2013,155
+Soft Drink/Water,2011,155
+Bakery Prod/Dough/Mix/Icing,2019,153
+Bakery Prod/Dough/Mix/Icing,2018,153
+Dietary Conventional Foods/Meal Replacements,2014,153
+Mult Food Dinner/Grav/Sauce/Special,2023,153
+Cosmetics,2006,152
+Fruit/Fruit Prod,2017,151
+Fruit/Fruit Prod,2018,151
+Cosmetics,2007,149
+Ice Cream Prod,2015,149
+Snack Food Item,2025,149
+Milk/Butter/Dried Milk Prod,2025,147
+Soft Drink/Water,2022,147
+Vegetables/Vegetable Products,2023,145
+Dietary Conventional Foods/Meal Replacements,2012,145
+Snack Food Item,2009,145
+Fishery/Seafood Prod,2008,142
+Cereal Prep/Breakfast Food,2018,141
+Candy W/O Choc/Special/Chew Gum,2025,140
+Soft Drink/Water,2021,140
+Prep Salad Prod,2025,139
+Bakery Prod/Dough/Mix/Icing,2006,138
+Fishery/Seafood Prod,2005,137
+Choc/Cocoa Prod,2024,137
+Baby Food Products,2023,136
+Bakery Prod/Dough/Mix/Icing,2022,136
+Vegetables/Vegetable Products,2014,135
+Dietary Conventional Foods/Meal Replacements,2023,134
+Vegetables/Vegetable Products,2015,134
+Fruit/Fruit Prod,2016,131
+Mult Food Dinner/Grav/Sauce/Special,2016,131
+Nuts/Edible Seed,2012,130
+Fishery/Seafood Prod,2015,130
+Bakery Prod/Dough/Mix/Icing,2013,130
+Fruit/Fruit Prod,2006,130
+Soft Drink/Water,2013,130
+Bakery Prod/Dough/Mix/Icing,2014,129
+Powder Formula,2024,129
+Milk/Butter/Dried Milk Prod,2024,128
+Nuts/Edible Seed,2016,128
+Bakery Prod/Dough/Mix/Icing,2012,128
+Bakery Prod/Dough/Mix/Icing,2020,127
+Bakery Prod/Dough/Mix/Icing,2021,127
+Fruit/Fruit Prod,2013,127
+Soft Drink/Water,2019,125
+Dietary Conventional Foods/Meal Replacements,2020,125
+Soft Drink/Water,2017,124
+Bakery Prod/Dough/Mix/Icing,2005,120
+Powder Formula,2023,120
+Fishery/Seafood Prod,2016,120
+Dietary Conventional Foods/Meal Replacements,2017,120
+Dietary Conventional Foods/Meal Replacements,2009,118
+Choc/Cocoa Prod,2009,117
+Mult Food Dinner/Grav/Sauce/Special,2007,117
+Dietary Conventional Foods/Meal Replacements,2025,117
+Nuts/Edible Seed,2013,117
+Fishery/Seafood Prod,2019,116
+Dietary Conventional Foods/Meal Replacements,2018,114
+Baby Food Products,2012,114
+Baby Food Products,2009,114
+Fruit/Fruit Prod,2005,111
+Bakery Prod/Dough/Mix/Icing,2011,111
+Cereal Prep/Breakfast Food,2016,111
+Dietary Conventional Foods/Meal Replacements,2024,110
+Soft Drink/Water,2020,109
+Cosmetics,2024,109
+Snack Food Item,2010,108
+Egg/Egg Prod,2018,108
+Nuts/Edible Seed,2017,108
+Vegetables/Vegetable Products,2004,106
+Ice Cream Prod,2009,105
+Fishery/Seafood Prod,2022,105
+Prep Salad Prod,2024,103
+Fishery/Seafood Prod,2023,103
+Dietary Conventional Foods/Meal Replacements,2021,100
+Dietary Conventional Foods/Meal Replacements,2010,100
+Milk/Butter/Dried Milk Prod,2014,100
+Fishery/Seafood Prod,2021,100
+Baby Food Products,2015,99
+Vegetables/Vegetable Products,2005,99
+Cereal Prep/Breakfast Food,2019,98
+Fishery/Seafood Prod,2017,98
+Fruit/Fruit Prod,2021,97
+Nuts/Edible Seed,2023,97
+Snack Food Item,2018,97
+Cereal Prep/Breakfast Food,2017,96
+Milk/Butter/Dried Milk Prod,2015,96
+Milk/Butter/Dried Milk Prod,2010,95
+Cereal Prep/Breakfast Food,2008,94
+Baby Food Products,2007,93
+Nuts/Edible Seed,2025,92
+Mult Food Dinner/Grav/Sauce/Special,2021,90
+Baby Food Products,2004,90
+Baby Food Products,2008,88
+Cereal Prep/Breakfast Food,2023,88
+Baby Food Products,2011,87
+Milk/Butter/Dried Milk Prod,2011,86
+Coffee/Tea,2009,86
+Snack Food Item,2016,86
+Milk/Butter/Dried Milk Prod,2006,85
+Snack Food Item,2019,84
+Fishery/Seafood Prod,2020,84
+Mult Food Dinner/Grav/Sauce/Special,2008,84
+Milk/Butter/Dried Milk Prod,2009,83
+Cereal Prep/Breakfast Food,2024,83
+Coffee/Tea,2010,83
+Baby Food Products,2006,83
+Ice Cream Prod,2025,82
+Snack Food Item,2017,82
+Egg/Egg Prod,2010,82
+Mult Food Dinner/Grav/Sauce/Special,2004,81
+Cereal Prep/Breakfast Food,2010,81
+Food Additives (Human Use),2019,81
+Coffee/Tea,2011,81
+Candy W/O Choc/Special/Chew Gum,2009,80
+Food Additives (Human Use),2018,79
+Milk/Butter/Dried Milk Prod,2005,79
+Snack Food Item,2020,79
+Baby Food Products,2016,78
+Coffee/Tea,2015,78
+Egg/Egg Prod,2025,78
+Milk/Butter/Dried Milk Prod,2016,78
+Snack Food Item,2007,78
+Milk/Butter/Dried Milk Prod,2022,78
+Nuts/Edible Seed,2024,78
+Nuts/Edible Seed,2004,78
+Milk/Butter/Dried Milk Prod,2012,76
+Milk/Butter/Dried Milk Prod,2004,76
+Snack Food Item,2023,76
+Candy W/O Choc/Special/Chew Gum,2021,75
+Snack Food Item,2024,75
+Coffee/Tea,2024,74
+Milk/Butter/Dried Milk Prod,2023,74
+Mult Food Dinner/Grav/Sauce/Special,2019,73
+Milk/Butter/Dried Milk Prod,2008,73
+Milk/Butter/Dried Milk Prod,2018,73
+Mult Food Dinner/Grav/Sauce/Special,2009,72
+Snack Food Item,2015,72
+Snack Food Item,2011,72
+Snack Food Item,2022,72
+Candy W/O Choc/Special/Chew Gum,2004,71
+Ice Cream Prod,2016,71
+Milk/Butter/Dried Milk Prod,2020,71
+Milk/Butter/Dried Milk Prod,2007,71
+Milk/Butter/Dried Milk Prod,2017,71
+Choc/Cocoa Prod,2023,70
+Choc/Cocoa Prod,2025,70
+Mult Food Dinner/Grav/Sauce/Special,2017,70
+Ice Cream Prod,2005,70
+Cereal Prep/Breakfast Food,2025,69
+Baby Food Products,2024,69
+Nuts/Edible Seed,2008,69
+Mult Food Dinner/Grav/Sauce/Special,2010,69
+Ice Cream Prod,2004,67
+Coffee/Tea,2025,67
+Choc/Cocoa Prod,2022,67
+Cheese/Cheese Prod,2024,67
+Fishery/Seafood Prod,2018,67
+Cereal Prep/Breakfast Food,2012,66
+Cereal Prep/Breakfast Food,2007,66
+Powder Formula,2025,66
+Cereal Prep/Breakfast Food,2004,65
+Snack Food Item,2008,65
+Nuts/Edible Seed,2018,65
+Mult Food Dinner/Grav/Sauce/Special,2020,64
+Mult Food Dinner/Grav/Sauce/Special,2018,64
+Snack Food Item,2021,64
+Coffee/Tea,2017,64
+Snack Food Item,2012,64
+Coffee/Tea,2008,64
+Baby Food Products,2005,64
+Milk/Butter/Dried Milk Prod,2021,63
+Baby Food Products,2013,63
+Cheese/Cheese Prod,2025,63
+Snack Food Item,2006,63
+Candy W/O Choc/Special/Chew Gum,2010,63
+Coffee/Tea,2019,63
+Snack Food Item,2004,63
+Coffee/Tea,2005,62
+Prep Salad Prod,2021,62
+Prep Salad Prod,2022,62
+Coffee/Tea,2004,62
+Baby Food Products,2014,61
+Cereal Prep/Breakfast Food,2005,60
+Coffee/Tea,2014,60
+Nuts/Edible Seed,2019,60
+Coffee/Tea,2012,60
+Coffee/Tea,2013,60
+"Spices, Flavors And Salts",2012,60
+Ice Cream Prod,2008,60
+Baby Food Products,2017,60
+Ice Cream Prod,2024,59
+Snack Food Item,2013,59
+Coffee/Tea,2018,59
+Coffee/Tea,2007,57
+Prep Salad Prod,2023,57
+Cereal Prep/Breakfast Food,2011,57
+Snack Food Item,2005,57
+Cereal Prep/Breakfast Food,2013,57
+Nuts/Edible Seed,2020,57
+Cheese/Cheese Prod,2010,56
+Choc/Cocoa Prod,2007,56
+Whole Grain/Milled Grain Prod/Starch,2013,56
+Choc/Cocoa Prod,2010,55
+Egg/Egg Prod,2024,55
+"Spices, Flavors And Salts",2015,55
+"Medical Foods, N.E.C.",2017,55
+Coffee/Tea,2020,54
+Milk/Butter/Dried Milk Prod,2019,54
+Ice Cream Prod,2023,54
+Prep Salad Prod,2019,53
+Ice Cream Prod,2012,53
+Ice Cream Prod,2018,53
+Ice Cream Prod,2017,52
+Choc/Cocoa Prod,2006,52
+Choc/Cocoa Prod,2004,52
+Choc/Cocoa Prod,2008,52
+Food Additives (Human Use),2023,51
+"Medical Foods, N.E.C.",2018,51
+Ice Cream Prod,2020,51
+Choc/Cocoa Prod,2005,51
+Coffee/Tea,2023,50
+Coffee/Tea,2022,49
+Choc/Cocoa Prod,2012,49
+Ice Cream Prod,2022,49
+Whole Grain/Milled Grain Prod/Starch,2016,48
+Mult Food Dinner/Grav/Sauce/Special,2006,48
+Food Additives (Human Use),2004,48
+Coffee/Tea,2006,47
+Choc/Cocoa Prod,2016,47
+Candy W/O Choc/Special/Chew Gum,2007,47
+Snack Food Item,2014,47
+Candy W/O Choc/Special/Chew Gum,2017,47
+Ice Cream Prod,2019,46
+Choc/Cocoa Prod,2013,46
+Nuts/Edible Seed,2006,46
+Choc/Cocoa Prod,2011,46
+Ice Cream Prod,2007,46
+Coffee/Tea,2016,45
+Ice Cream Prod,2010,45
+Nuts/Edible Seed,2021,45
+Choc/Cocoa Prod,2018,45
+Soup,2025,44
+Baby Food Products,2022,44
+"Spices, Flavors And Salts",2024,44
+Dietary Conventional Foods/Meal Replacements,2005,44
+Ice Cream Prod,2006,43
+Mult Food Dinner/Grav/Sauce/Special,2005,43
+Mult Food Dinner/Grav/Sauce/Special,2014,43
+Food Additives (Human Use),2005,43
+Candy W/O Choc/Special/Chew Gum,2011,43
+Prep Salad Prod,2018,42
+Cereal Prep/Breakfast Food,2006,42
+Candy W/O Choc/Special/Chew Gum,2008,42
+Mult Food Dinner/Grav/Sauce/Special,2013,42
+Mult Food Dinner/Grav/Sauce/Special,2011,42
+Choc/Cocoa Prod,2015,42
+Choc/Cocoa Prod,2021,41
+Cheese/Cheese Prod,2017,41
+Choc/Cocoa Prod,2020,41
+Cereal Prep/Breakfast Food,2014,41
+Candy W/O Choc/Special/Chew Gum,2005,40
+Candy W/O Choc/Special/Chew Gum,2018,40
+Cereal Prep/Breakfast Food,2020,40
+Cereal Prep/Breakfast Food,2021,39
+Dietary Conventional Foods/Meal Replacements,2008,39
+"Spices, Flavors And Salts",2016,39
+Coffee/Tea,2021,39
+Whole Grain/Milled Grain Prod/Starch,2025,39
+Food Sweeteners (Nutritive),2008,38
+Ice Cream Prod,2014,38
+Whole Grain/Milled Grain Prod/Starch,2023,37
+Choc/Cocoa Prod,2014,36
+Choc/Cocoa Prod,2019,36
+Candy W/O Choc/Special/Chew Gum,2014,36
+Candy W/O Choc/Special/Chew Gum,2013,35
+Food Additives (Human Use),2015,35
+Dressing/Condiment,2007,35
+"Meat, Meat Products and Poultry",2012,35
+Candy W/O Choc/Special/Chew Gum,2012,35
+Ice Cream Prod,2011,35
+Candy W/O Choc/Special/Chew Gum,2015,35
+Choc/Cocoa Prod,2017,35
+Whole Grain/Milled Grain Prod/Starch,2007,35
+"Spices, Flavors And Salts",2025,35
+Cheese/Cheese Prod,2013,34
+Dressing/Condiment,2016,34
+Dressing/Condiment,2024,34
+Nuts/Edible Seed,2005,34
+Cheese/Cheese Prod,2018,34
+"Spices, Flavors And Salts",2020,34
+Cheese/Cheese Prod,2007,34
+Cheese/Cheese Prod,2016,33
+Cosmetics,2003,33
+Prep Salad Prod,2013,33
+Whole Grain/Milled Grain Prod/Starch,2019,33
+Ice Cream Prod,2021,33
+Whole Grain/Milled Grain Prod/Starch,2017,33
+Candy W/O Choc/Special/Chew Gum,2019,33
+Dressing/Condiment,2023,32
+Dietary Conventional Foods/Meal Replacements,2007,32
+Dietary Conventional Foods/Meal Replacements,2006,32
+Mult Food Dinner/Grav/Sauce/Special,2012,32
+Soft Drink/Water,2003,31
+Powder Formula,2019,31
+Soup,2024,31
+Cheese/Cheese Prod,2006,30
+Candy W/O Choc/Special/Chew Gum,2006,30
+Dietary Conventional Foods/Meal Replacements,2004,30
+Cheese/Cheese Prod,2022,30
+"Spices, Flavors And Salts",2023,30
+Macaroni/Noodle Prod,2010,30
+Food Additives (Human Use),2017,30
+Dressing/Condiment,2017,29
+Candy W/O Choc/Special/Chew Gum,2016,29
+Cheese/Cheese Prod,2005,29
+Vit/Min/Prot/Unconv Diet(Human/Animal),2003,29
+Ice Cream Prod,2013,29
+Soup,2009,29
+Soup,2022,29
+Cheese/Cheese Prod,2023,28
+Vegetable Protein Prod,2022,28
+Food Sweeteners (Nutritive),2024,28
+Whole Grain/Milled Grain Prod/Starch,2024,28
+Cheese/Cheese Prod,2015,28
+Whole Grain/Milled Grain Prod/Starch,2014,28
+Whole Grain/Milled Grain Prod/Starch,2022,28
+Powder Formula,2020,28
+Whole Grain/Milled Grain Prod/Starch,2012,28
+"Meat, Meat Products and Poultry",2005,28
+Dressing/Condiment,2015,27
+Dressing/Condiment,2008,27
+Cheese/Cheese Prod,2004,27
+Dressing/Condiment,2005,27
+Baby Food Products,2018,27
+Beverage Bases/Conc/Nectar,2011,27
+Fruit/Fruit Prod,2003,27
+Filled Milk/Imit Milk Prod,2009,26
+Powder Formula,2021,26
+"Spices, Flavors And Salts",2021,26
+Food Additives (Human Use),2012,26
+Soup,2004,26
+"Spices, Flavors And Salts",2019,25
+Food Sweeteners (Nutritive),2025,25
+Prep Salad Prod,2006,25
+Egg/Egg Prod,2023,25
+Baby Food Products,2021,25
+Prep Salad Prod,2016,25
+Whole Grain/Milled Grain Prod/Starch,2018,25
+Food Additives (Human Use),2013,25
+Soup,2010,25
+Food Sweeteners (Nutritive),2023,25
+"Meat, Meat Products and Poultry",2017,25
+Dressing/Condiment,2018,24
+Vegetables/Vegetable Products,2003,24
+"Spices, Flavors And Salts",2014,24
+Filled Milk/Imit Milk Prod,2019,24
+Baby Food Products,2025,24
+Food Sweeteners (Nutritive),2022,24
+Vegetable Protein Prod,2024,24
+"Meat, Meat Products and Poultry",2015,23
+Cheese/Cheese Prod,2009,23
+Soup,2006,23
+"Spices, Flavors And Salts",2018,23
+Egg/Egg Prod,2020,23
+Dressing/Condiment,2021,23
+Dressing/Condiment,2025,23
+Bakery Prod/Dough/Mix/Icing,2003,23
+"Meat, Meat Products and Poultry",2011,22
+"Meat, Meat Products and Poultry",2025,22
+Filled Milk/Imit Milk Prod,2023,22
+Food Additives (Human Use),2007,22
+Filled Milk/Imit Milk Prod,2018,22
+Food Additives (Human Use),2020,22
+Egg/Egg Prod,2019,22
+Whole Grain/Milled Grain Prod/Starch,2009,22
+Cheese/Cheese Prod,2008,22
+"Medical Foods, N.E.C.",2019,22
+Whole Grain/Milled Grain Prod/Starch,2020,22
+Filled Milk/Imit Milk Prod,2008,22
+Soup,2007,22
+Egg/Egg Prod,2015,22
+Baby Food Products,2019,22
+Food Sweeteners (Nutritive),2013,22
+Candy W/O Choc/Special/Chew Gum,2020,22
+"Spices, Flavors And Salts",2011,21
+Dressing/Condiment,2006,21
+Soup,2023,21
+Cheese/Cheese Prod,2014,21
+Dressing/Condiment,2022,21
+Filled Milk/Imit Milk Prod,2016,21
+"Spices, Flavors And Salts",2022,21
+Macaroni/Noodle Prod,2017,21
+Dressing/Condiment,2009,21
+Prep Salad Prod,2007,20
+Fishery/Seafood Prod,2003,20
+Food Sweeteners (Nutritive),2010,20
+Whole Grain/Milled Grain Prod/Starch,2011,20
+Prep Salad Prod,2010,20
+Soup,2015,20
+Food Additives (Human Use),2014,20
+Filled Milk/Imit Milk Prod,2025,20
+"Meat, Meat Products and Poultry",2004,20
+"Spices, Flavors And Salts",2006,20
+Dressing/Condiment,2004,20
+Cheese/Cheese Prod,2011,20
+Food Additives (Human Use),2011,19
+Food Additives (Human Use),2006,19
+Food Sweeteners (Nutritive),2009,19
+Macaroni/Noodle Prod,2025,19
+Vegetable Oils,2025,19
+Soup,2011,19
+Whole Grain/Milled Grain Prod/Starch,2021,19
+Soup,2017,19
+Filled Milk/Imit Milk Prod,2017,19
+Cheese/Cheese Prod,2012,18
+Egg/Egg Prod,2021,18
+Filled Milk/Imit Milk Prod,2006,18
+Whole Grain/Milled Grain Prod/Starch,2010,18
+Egg/Egg Prod,2022,18
+Dressing/Condiment,2019,18
+Macaroni/Noodle Prod,2023,18
+Filled Milk/Imit Milk Prod,2010,18
+"Medical Foods, N.E.C.",2024,18
+"Meat, Meat Products and Poultry",2006,18
+Food Sweeteners (Nutritive),2011,18
+Dressing/Condiment,2020,18
+Whole Grain/Milled Grain Prod/Starch,2008,18
+Filled Milk/Imit Milk Prod,2024,18
+Filled Milk/Imit Milk Prod,2022,18
+Beverage Bases/Conc/Nectar,2010,18
+Ready to Serve Formula,2022,18
+Food Sweeteners (Nutritive),2007,18
+"Spices, Flavors And Salts",2013,18
+"Meat, Meat Products and Poultry",2024,17
+Beverage Bases/Conc/Nectar,2014,17
+"Meat, Meat Products and Poultry",2007,17
+Beverage Bases/Conc/Nectar,2019,17
+Prep Salad Prod,2017,17
+Food Sweeteners (Nutritive),2015,17
+Food Additives (Human Use),2025,17
+"Medical Foods, N.E.C.",2025,17
+Baby Food Products,2003,17
+"Spices, Flavors And Salts",2017,17
+Cheese/Cheese Prod,2019,17
+Food Sweeteners (Nutritive),2021,17
+Cheese/Cheese Prod,2021,17
+Powder Formula,2018,17
+Food Sweeteners (Nutritive),2004,17
+Food Sweeteners (Nutritive),2012,17
+Macaroni/Noodle Prod,2024,17
+Macaroni/Noodle Prod,2015,17
+Food Additives (Human Use),2016,16
+Soup,2018,16
+Soup,2016,16
+Macaroni/Noodle Prod,2004,16
+Whole Grain/Milled Grain Prod/Starch,2015,16
+Dressing/Condiment,2012,16
+Food Sweeteners (Nutritive),2019,16
+Filled Milk/Imit Milk Prod,2004,16
+Macaroni/Noodle Prod,2008,16
+Macaroni/Noodle Prod,2016,16
+Prep Salad Prod,2005,16
+Filled Milk/Imit Milk Prod,2011,16
+Soup,2021,16
+Filled Milk/Imit Milk Prod,2013,16
+Filled Milk/Imit Milk Prod,2012,15
+"Meat, Meat Products and Poultry",2010,15
+"Meat, Meat Products and Poultry",2016,15
+Macaroni/Noodle Prod,2014,15
+Egg/Egg Prod,2014,15
+Baby Food Products,2020,15
+Soup,2019,15
+Dressing/Condiment,2010,15
+Macaroni/Noodle Prod,2018,15
+Beverage Bases/Conc/Nectar,2009,15
+"Meat, Meat Products and Poultry",2009,15
+Vegetable Oils,2016,15
+Beverage Bases/Conc/Nectar,2021,15
+"Spices, Flavors And Salts",2005,15
+Soup,2005,15
+Vegetable Oils,2022,14
+"Spices, Flavors And Salts",2004,14
+Food Sweeteners (Nutritive),2005,14
+Prep Salad Prod,2012,14
+Food Additives (Human Use),2022,14
+Macaroni/Noodle Prod,2019,14
+Beverage Bases/Conc/Nectar,2015,14
+Cheese/Cheese Prod,2020,14
+Soup,2008,14
+"Spices, Flavors And Salts",2009,14
+"Meat, Meat Products and Poultry",2008,14
+Soup,2012,14
+Egg/Egg Prod,2017,14
+Macaroni/Noodle Prod,2020,14
+Prep Salad Prod,2004,14
+Choc/Cocoa Prod,2003,14
+Beverage Bases/Conc/Nectar,2012,14
+Food Additives (Human Use),2024,14
+Egg/Egg Prod,2012,13
+Beverage Bases/Conc/Nectar,2008,13
+Filled Milk/Imit Milk Prod,2007,13
+Alcoholic Beverage,2023,13
+Beverage Bases/Conc/Nectar,2017,13
+Soup,2020,13
+Beverage Bases/Conc/Nectar,2018,13
+Vegetable Protein Prod,2021,13
+"Meat, Meat Products and Poultry",2014,13
+Color Additiv Food/Drug/Cosmetic,2025,13
+Food Additives (Human Use),2021,13
+Beverage Bases/Conc/Nectar,2022,13
+Gelatin/Rennet/Pudding Mix/Pie Filling,2011,13
+"Meat, Meat Products and Poultry",2023,13
+Beverage Bases/Conc/Nectar,2016,13
+Soup,2013,13
+Prep Salad Prod,2014,12
+Gelatin/Rennet/Pudding Mix/Pie Filling,2012,12
+Beverage Bases/Conc/Nectar,2023,12
+Milk/Butter/Dried Milk Prod,2003,12
+Filled Milk/Imit Milk Prod,2014,12
+Macaroni/Noodle Prod,2009,12
+Egg/Egg Prod,2011,12
+Prep Salad Prod,2011,12
+Food Sweeteners (Nutritive),2020,12
+Food Additives (Human Use),2008,12
+Miscellaneous Food Related Items,2024,12
+Prep Salad Prod,2008,12
+Dressing/Condiment,2011,12
+Whole Grain/Milled Grain Prod/Starch,2005,11
+Macaroni/Noodle Prod,2011,11
+Ready to Serve Formula,2019,11
+Gelatin/Rennet/Pudding Mix/Pie Filling,2007,11
+Food Additives (Human Use),2010,11
+Vegetable Oils,2010,11
+Macaroni/Noodle Prod,2012,11
+Vegetable Oils,2021,11
+Cereal Prep/Breakfast Food,2003,11
+Gelatin/Rennet/Pudding Mix/Pie Filling,2008,11
+Ice Cream Prod,2003,11
+"Meat, Meat Products and Poultry",2021,11
+Dressing/Condiment,2014,11
+Whole Grain/Milled Grain Prod/Starch,2004,11
+Filled Milk/Imit Milk Prod,2021,11
+Food Sweeteners (Nutritive),2006,10
+Egg/Egg Prod,2008,10
+Vegetable Oils,2004,10
+Color Additiv Food/Drug/Cosmetic,2024,10
+"Meat, Meat Products and Poultry",2020,10
+Vegetable Protein Prod,2016,10
+Vegetable Oils,2023,10
+Miscellaneous Food Related Items,2025,10
+Beverage Bases/Conc/Nectar,2004,10
+Food Service/Conveyance,2004,10
+Vegetable Protein Prod,2013,10
+Filled Milk/Imit Milk Prod,2020,10
+Food Sweeteners (Nutritive),2018,10
+Vegetable Oils,2014,10
+Food Sweeteners (Nutritive),2014,10
+Miscellaneous Food Related Items,2013,10
+Macaroni/Noodle Prod,2005,10
+Vegetable Oils,2011,10
+Nuts/Edible Seed,2003,10
+Macaroni/Noodle Prod,2007,10
+Egg/Egg Prod,2009,10
+Beverage Bases/Conc/Nectar,2013,10
+"Spices, Flavors And Salts",2010,10
+"Medical Foods, N.E.C.",2022,9
+Egg/Egg Prod,2013,9
+Macaroni/Noodle Prod,2006,9
+Vegetable Oils,2017,9
+Powder Formula,2012,9
+Cosmetics,2025,9
+Vegetable Protein Prod,2023,9
+Candy W/O Choc/Special/Chew Gum,2003,9
+Egg/Egg Prod,2004,9
+"Medical Foods, N.E.C.",2011,9
+Gelatin/Rennet/Pudding Mix/Pie Filling,2015,9
+Vegetable Protein Prod,2025,9
+Vegetable Oils,2019,9
+Beverage Bases/Conc/Nectar,2024,9
+Macaroni/Noodle Prod,2021,9
+Vegetable Oils,2024,9
+Filled Milk/Imit Milk Prod,2005,9
+Alcoholic Beverage,2011,9
+Food Sweeteners (Nutritive),2016,9
+Vegetable Oils,2009,9
+Vegetable Protein Prod,2019,9
+Vegetable Oils,2015,9
+Vegetable Protein Prod,2007,9
+Alcoholic Beverage,2021,8
+Alcoholic Beverage,2022,8
+Vegetable Protein Prod,2020,8
+"Meat, Meat Products and Poultry",2018,8
+Egg/Egg Prod,2016,8
+Filled Milk/Imit Milk Prod,2015,8
+Miscellaneous Food Related Items,2021,8
+Color Additiv Food/Drug/Cosmetic,2023,8
+Gelatin/Rennet/Pudding Mix/Pie Filling,2019,8
+Food Additives (Human Use),2009,8
+"Medical Foods, N.E.C.",2021,8
+Whole Grain/Milled Grain Prod/Starch,2006,8
+Vegetable Oils,2012,8
+Dressing/Condiment,2013,8
+Gelatin/Rennet/Pudding Mix/Pie Filling,2004,8
+Prep Salad Prod,2009,8
+Soup,2014,8
+Gelatin/Rennet/Pudding Mix/Pie Filling,2009,8
+Ready to Serve Formula,2025,7
+Ready to Serve Formula,2023,7
+Miscellaneous Food Related Items,2020,7
+Dietary Conventional Foods/Meal Replacements,2003,7
+Gelatin/Rennet/Pudding Mix/Pie Filling,2006,7
+Vegetable Oils,2018,7
+Beverage Bases/Conc/Nectar,2007,7
+Macaroni/Noodle Prod,2013,7
+Vegetable Oils,2006,7
+"Spices, Flavors And Salts",2007,7
+Beverage Bases/Conc/Nectar,2005,7
+Macaroni/Noodle Prod,2022,7
+Alcoholic Beverage,2024,7
+"Medical Foods, N.E.C.",2023,7
+Ready to Serve Formula,2024,7
+Gelatin/Rennet/Pudding Mix/Pie Filling,2013,6
+Vegetable Protein Prod,2015,6
+Coffee/Tea,2003,6
+"Meat, Meat Products and Poultry",2019,6
+Food Sweeteners (Nutritive),2017,6
+Color Additiv Food/Drug/Cosmetic,2016,6
+Vegetable Oils,2007,6
+Snack Food Item,2003,6
+Vegetable Protein Prod,2004,6
+Vegetable Protein Prod,2010,6
+"Spices, Flavors And Salts",2008,6
+Gelatin/Rennet/Pudding Mix/Pie Filling,2016,6
+Prep Salad Prod,2015,6
+"Medical Foods, N.E.C.",2020,6
+Whole Grain/Milled Grain Prod/Starch,2003,6
+Ready to Serve Formula,2018,6
+Gelatin/Rennet/Pudding Mix/Pie Filling,2025,6
+Egg/Egg Prod,2006,5
+Vegetable Protein Prod,2011,5
+Vegetable Oils,2020,5
+Egg/Egg Prod,2005,5
+Beverage Bases/Conc/Nectar,2020,5
+Vegetable Protein Prod,2018,5
+Vegetable Oils,2013,5
+Miscellaneous Food Related Items,2014,5
+Alcoholic Beverage,2018,5
+Color Additiv Food/Drug/Cosmetic,2021,5
+Gelatin/Rennet/Pudding Mix/Pie Filling,2014,5
+Gelatin/Rennet/Pudding Mix/Pie Filling,2021,5
+Vit/Min/Prot/Unconv Diet(Human/Animal),1999,5
+Alcoholic Beverage,2004,5
+Miscellaneous Food Related Items,2004,5
+Color Additiv Food/Drug/Cosmetic,2004,5
+Vegetable Protein Prod,2008,4
+Vegetable Oils,2005,4
+Mult Food Dinner/Grav/Sauce/Special,2003,4
+Dressing/Condiment,2003,4
+Gelatin/Rennet/Pudding Mix/Pie Filling,2017,4
+"Medical Foods, N.E.C.",2014,4
+Powder Formula,2017,4
+Gelatin/Rennet/Pudding Mix/Pie Filling,2005,4
+Color Additiv Food/Drug/Cosmetic,2017,4
+Cheese/Cheese Prod,2003,4
+Color Additiv Food/Drug/Cosmetic,2022,4
+Alcoholic Beverage,2010,4
+Egg/Egg Prod,2007,3
+Formula Raw Material,2019,3
+Vegetable Protein Prod,2017,3
+Vegetable Protein Prod,2014,3
+Color Additiv Food/Drug/Cosmetic,2015,3
+"Formula, Form Unspecified",2022,3
+Beverage Bases/Conc/Nectar,2025,3
+Liquid Concentrate Formula,2022,3
+Vegetable Oils,2008,3
+"Meat, Meat Products and Poultry",2022,3
+"Medical Foods, N.E.C.",2015,3
+Vit/Min/Prot/Unconv Diet(Human/Animal),2002,3
+Filled Milk/Imit Milk Prod,2003,3
+Alcoholic Beverage,2005,3
+Ready to Serve Formula,2021,3
+Gelatin/Rennet/Pudding Mix/Pie Filling,2022,3
+Miscellaneous Food Related Items,2011,3
+Alcoholic Beverage,2007,3
+Alcoholic Beverage,2025,3
+Miscellaneous Food Related Items,2007,3
+Miscellaneous Food Related Items,2005,3
+Miscellaneous Food Related Items,2023,3
+Ready to Serve Formula,2017,3
+"Formula, Form Unspecified",2017,3
+"Formula, Form Unspecified",2018,3
+Soup,2003,2
+"Formula, Form Unspecified",2019,2
+Alcoholic Beverage,2013,2
+"Medical Foods, N.E.C.",2016,2
+"Medical Foods, N.E.C.",2012,2
+Egg/Egg Prod,2003,2
+Ready to Serve Formula,2010,2
+"Meat, Meat Products and Poultry",2003,2
+Vegetable Protein Prod,2012,2
+"Medical Foods, N.E.C.",2013,2
+"Meat, Meat Products and Poultry",2013,2
+Gelatin/Rennet/Pudding Mix/Pie Filling,2024,2
+Miscellaneous Food Related Items,2022,2
+Liquid Concentrate Formula,2019,2
+Alcoholic Beverage,2019,2
+"Medical Foods, N.E.C.",2006,2
+Fruit/Fruit Prod,2001,2
+Vegetable Protein Prod,2005,2
+Gelatin/Rennet/Pudding Mix/Pie Filling,2023,2
+"Medical Foods, N.E.C.",2009,2
+Miscellaneous Food Related Items,2008,2
+Food Sweeteners (Nutritive),2003,2
+Miscellaneous Food Related Items,2012,2
+Food Service/Conveyance,2005,2
+Alcoholic Beverage,2020,2
+Alcoholic Beverage,2012,2
+Formula Raw Material,2020,2
+Powder Formula,2016,2
+Vegetable Protein Prod,2006,2
+Gelatin/Rennet/Pudding Mix/Pie Filling,2003,2
+Gelatin/Rennet/Pudding Mix/Pie Filling,2020,2
+Liquid Concentrate Formula,2018,2
+"Spices, Flavors And Salts",2003,2
+Vegetable Oils,2003,2
+Liquid Concentrate Formula,2023,2
+Color Additiv Food/Drug/Cosmetic,2008,2
+Ready to Serve Formula,2020,2
+Powder Formula,2004,2
+Gelatin/Rennet/Pudding Mix/Pie Filling,2010,2
+Powder Formula,2011,2
+"Formula, Form Unspecified",2015,2
+"Formula, Form Unspecified",2014,1
+Food Additives (Human Use),2003,1
+Powder Formula,2005,1
+"Formula, Form Unspecified",2012,1
+Powder Formula,2015,1
+Powder Formula,2006,1
+Vegetable Protein Prod,2009,1
+Miscellaneous Food Related Items,2009,1
+Powder Formula,2010,1
+Vegetable Protein Prod,2003,1
+Formula Raw Material,2017,1
+Color Additiv Food/Drug/Cosmetic,2010,1
+Liquid Concentrate Formula,2017,1
+Miscellaneous Food Related Items,2016,1
+Edible Insects and Insect-derived Foods,2020,1
+Powder Formula,2014,1
+Formula Raw Material,2022,1
+Gelatin/Rennet/Pudding Mix/Pie Filling,2018,1
+Color Additiv Food/Drug/Cosmetic,2005,1
+Prep Salad Prod,2003,1
+Food Service/Conveyance,2019,1
+Cosmetics,2001,1
+Liquid Concentrate Formula,2025,1
+Color Additiv Food/Drug/Cosmetic,2009,1
+Macaroni/Noodle Prod,2003,1
+Bakery Prod/Dough/Mix/Icing,2001,1
+Color Additiv Food/Drug/Cosmetic,2020,1
+Color Additiv Food/Drug/Cosmetic,2013,1
+Fruit/Fruit Prod,2000,1
+Alcoholic Beverage,2003,1
+Food Service/Conveyance,2020,1
+Liquid Concentrate Formula,2024,1
+Alcoholic Beverage,2014,1
+Alcoholic Beverage,2016,1
+Alcoholic Beverage,2015,1
+Fishery/Seafood Prod,2002,1
+Fishery/Seafood Prod,2001,1
+Alcoholic Beverage,2017,1
+"Formula, Form Unspecified",2021,1
